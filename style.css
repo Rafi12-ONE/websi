@@ -1,0 +1,151 @@
+DOCTYPE html>
+<html>
+<head>
+  <title>Play It Yourself</title>
+  <style type="text/css">
+{ 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'poppins', san-serif;
+}
+    body {
+      background-image: url(https://c4.wallpaperflare.com/wallpaper/30/588/947/3d-anime-girls-hd-wallpaper-preview.jpg);
+    }
+    head{
+      margin-left: 90PX
+    }
+   h1 {
+     color:white;
+     text-align:center;
+     border:4px double black;
+     background-color:skyblue;
+     text-transform: capitalize
+    }
+   h2 {
+     color:white; text-align:center; background-color:red; border:ridge black
+   }
+   #p1 {
+     color:white; border:2px groove blue; background-color:skyblue; text-align:center
+   }
+   h3, h4 {
+     color:white; font-size:large; text-align:center; border:2px solid blue; background-color:skyblue
+   }
+   #p2 {
+     color:red; font-size:medium; background-color:skyblue; border:solid blue
+   }
+  nav {
+     padding: 5px 10px 5px 5px;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+  }
+   button {
+     background-color:yellow; color:red
+   }
+#a1{
+  text-decoration: none;
+    color: #333;
+    font-weight: 400;
+    display: inline-block;
+    color: #fff;
+    padding: 15px 50px;
+    background-image: linear-gradient( 45deg, #df4881, #c430d7);
+    font-size: 14px;
+    border-radius: 30px;
+    border-top-right-radius: 0;
+    font-size: 16px;
+    position: relative
+}
+#a1:hover{
+  background: blue;
+  font-weight: 700
+}
+#a1:active{
+  background: red
+}
+#a2{
+  text-decoration: none;
+    color: #333;
+    font-weight: 400;
+    display: inline-block;
+    color: #fff;
+    padding: 15px 50px;
+    background-image: linear-gradient( 45deg, #df4881, #c430d7);
+    font-size: 14px;
+    border-radius: 30px;
+    border-top-right-radius: 0;
+    font-size: 16px;
+    position: relative
+}
+#a2:hover{
+  background: blue;
+  font-weight: 700
+}
+#a2:active{
+  background: red
+}
+#a3{
+  text-decoration: none;
+    font-weight: 400;
+    display: inline-block;
+    color: #fff;
+    padding: 10px 20px;
+    background-image: linear-gradient( 90deg, red, blue);
+    border-radius: 30px;
+    font-size: 16px;
+    position: relative
+}
+#a3:hover{
+  background: blue;
+  font-weight: 700
+}
+#a3:active{
+  background: red
+}
+#a4{
+  text-decoration: none;
+    font-weight: 400;
+    display: inline-block;
+    color: azure;
+    padding: 10px 20px;
+    background-image: linear-gradient( 90deg, orange, skyblue);
+    border-radius: 30px;
+    font-size: 16px;
+    position: relative
+}
+#a4:hover{
+  background: blue;
+  font-weight: 700
+}
+#a4:active{
+  background: red
+}
+#ab {
+   margin-left: 37%;
+   color: white;
+   text-decoration: none
+}
+#ab:hover{
+  color: white;
+  background: hotpink;
+  border-radius: 5px;
+  padding: 0px 6px;
+}
+#ab:active{
+  color: red;
+  background: white;
+  border-radius: 5px;
+  padding: 0px 6px;
+  text-decoration-line: underline
+}
+#p2 {
+  text-decoration: dashed overline blue;
+  text-shadow: fuchsia 5px 5px 5px;
+  letter-spacing: 3px;
+  word-spacing: 5px;
+  line-height: 25px;
+  direction: rtl
+}
+  </style>
+</html>
